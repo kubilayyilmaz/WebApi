@@ -4,5 +4,5 @@ namespace Entities.Concretes;
 
 public class Brand: BaseEntity<int>
 {
-public string? Name { get; set; }
+public string Name { get; set; }
 }

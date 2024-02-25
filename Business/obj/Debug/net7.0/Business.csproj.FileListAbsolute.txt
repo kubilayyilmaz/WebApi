@@ -10,3 +10,10 @@
 /Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/refint/Business.dll
 /Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.pdb
 /Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Core.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Entities.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Core.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.csproj.CopyComplete

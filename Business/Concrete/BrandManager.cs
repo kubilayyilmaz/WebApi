@@ -8,7 +8,12 @@ namespace Business.Concrete;
 
 public class BrandManager : IBrandService
 {
-private readonly IBrandDal _brandDal;
+    private readonly IBrandDal _brandDal;
+
+    public BrandManager(IBrandDal brandDal)
+    {
+        _brandDal = brandDal;
+    }
 
     public CreatedBrandResponse Add(CreateBrandRequest createBrandRequest)
     {
@@ -36,6 +41,19 @@ private readonly IBrandDal _brandDal;
 
     public List<GetAllBrandResponse> GetAll()
     {
-        throw new NotImplementedException();
+        List<Brand> brands = _brandDal.GetAll();
+        List<GetAllBrandResponse> getAllBrandResponses = new List<GetAllBrandResponse>();
+        foreach (var brand in brands)
+        {
+            GetAllBrandResponse getAllBrandResponse = new()
+            {
+                Id = brand.Id,
+                Name = brand.Name,
+                CreatedDate = brand.CreatedDate
+            };
+
+            getAllBrandResponses.Add(getAllBrandResponse);
+        }
+        return getAllBrandResponses;
     }
 }
