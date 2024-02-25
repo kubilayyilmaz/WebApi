@@ -1,0 +1,12 @@
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Business.deps.json
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Business.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/bin/Debug/net7.0/Business.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/Business.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Business/obj/Debug/net7.0/ref/Business.dll

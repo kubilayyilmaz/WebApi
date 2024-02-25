@@ -1,0 +1,12 @@
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/bin/Debug/net7.0/Entities.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/kubilayyilmaz/Developer/C#/WebApi/Entities/obj/Debug/net7.0/ref/Entities.dll
